@@ -1,0 +1,142 @@
+/*-----------------------------------------------------------------------------------
+
+    Template Name: Ezone - eCommerce HTML5 Template
+    Description: This is html5 template
+    Author: HasTech
+    Version: 1.0
+    
+-----------------------------------------------------------------------------------
+    
+    [Table of contents] 
+	
+    1. Template default css (assets/css/bundle.css)
+    2. index page
+        2.1 Header sidebar
+        2.2 Menu style
+        2.3 Currency style
+        2.4 Cart style
+        2.5 Slider style
+        2.6 Banner style
+        2.7 Product style
+        2.8 Banner style 2
+        2.9 Brand logo style
+        2.10 Banner 3 style
+        2.11 Instafeed style
+        2.12 Footer style 
+    3. Book page
+        3.1 Header style of book
+        3.2 Menu style of book
+        3.3 Slider style book
+        3.4 Banner style book
+        3.5 product style book
+        3.6 Testimonial style book
+        3.7 Discount style book
+        3.8 Blog style book
+        3.9 Subscribe style book
+        3.10 Footer style of book
+        
+    4. Electronics page
+        4.1 Header style of electronics
+        4.2 Menu style of electronics
+        4.3 Slider style of electronics
+        4.4 Banner style of electronics
+        4.5 Product style of electronics
+        4.6 Brand logo style of electronics
+        4.7 Newsletter style of electronics
+        4.8 Footer style of electronics
+    5. Electronic style 2
+        5.1 Header style of electronic 2
+        5.2 Slider style of electronic 2
+        5.3 Banner style of electronic 2
+        5.4 Product style of electronic 2
+    6. Handicraft page
+        6.1 Header style of handicraft
+        6.2 Slider style of handicraft
+        6.3 Banner style of handicraft
+        6.4 Product style of handicraft
+        6.5 Banner style 2 of handicraft
+        6.6 Testimonial style of handicraft
+        6.7 Newsletter style of handicraft
+        6.8 Footer style of handicraft
+    7. Furniture page
+        7.1 Header style of furniture
+        7.2 Product style of furniture
+        7.3 Services style of furniture
+        7.4 Footer style of furniture
+    8. Smart watch page
+        8.1 Header style of smart watch
+        8.2 Slider style of smart watch
+        8.3 About style of smart watch
+        8.4 Overview style of smart watch
+        8.5 Video style of smart watch
+        8.6 Feature style of smart watch
+        8.7 Feadback style of smart watch
+        8.8 Subscribe style of smart watch
+    9. Sports page
+        9.1 Header style of sports
+        9.2 Slider style of sports
+        9.3 Discount style of sports
+        9.4 Banner style of sports
+    10. Food page
+        10.1 Header style of food
+        10.2 Slider style of food
+        10.3 Product style of food
+        10.4 Service style of food
+        10.5 Foot menu style of food
+        10.6 Banner style of food
+        10.7 Testimonial style of food
+        10.8 Subscribe style of food
+        10.9 Footer style of food
+    11. Fashion style 2
+        11.1 Header style of fashion 2
+        11.2 Slider style of fashion 2
+    12. Breadcrumb style
+    13. Login page
+    14. Shopping cart
+    15. Checkout page
+    16. Shop page
+    17. Product details
+    18. Compare style
+    19. Blog style
+    20. Blog details
+    21. Contact us
+    22. About us
+    23. Fruits page
+        23.1 Heade style of fruits
+        23.2 Slider style of fruits
+        23.3 Banner style of fruits
+        23.4 Product style of fruits
+        23.5 Banner style 2 of fruits
+        23.6 Services style of fruits
+        23.7 Product coundoun style of fruits
+        23.8 Product Best seller style of fruits
+        23.9 Testimonial style of fruits
+        23.10 Blog style of fruits
+        23.11 Newsletter style of fruits
+        23.12 Footer style of fruits
+    24. Modal style
+    
+-----------------------------------------------------------------------------------*/
+
+
+/* 2. index page */
+
+
+/* 2.1 Header sidebar */
+
+body {
+    margin: 0;
+    /* background-color: #f1f1f1; */
+    color: #444;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#navbar {
+    /* background-color: #333; */
+    position: sticky;
+    top: 0;
+    width: 100%;
+    display: block;
+    transition: top 0.3s;
+    height: 0;
+}
